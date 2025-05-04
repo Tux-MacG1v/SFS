@@ -1,0 +1,13 @@
+{
+    "FOLDER_PATH": "test",
+    "EXPIRE_DAYS": 15,
+    "DELETE_AFTER": true,
+    "SECRET_KEY": "MySecurePass123",
+    "ENCRYPT": false,
+    "API_URL": "https://files.tuxmacg1v.me/api/v1/upload",
+    "MAX_RETRIES": 3,
+    "MAX_WORKERS": 10,
+    "CHUNK_SIZE": 5242880,
+    "SSL_VERIFY": true,
+    "ALLOWED_EXTENSIONS": [".txt", ".pdf", ".docx", ".xlsx", ".jpg", ".png"]
+}
