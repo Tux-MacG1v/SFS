@@ -95,7 +95,7 @@ Files will be:
 
 ### Upload File
 ```http
-POST /api/v1/upload
+POST https://files.tuxmacg1v.me/api/v1/upload
 ```
 ```json
 {
@@ -123,7 +123,7 @@ GET/DELETE https://files.tuxmacg1v.me/api/v1/files/{file_id}
 **Connection Issues**  
 ```bash
 # Check API endpoint
-curl -v https://files.example.com/api/v1/health
+curl -v https://files.tuxmacg1v.me/api/v1/health
 
 # Temporary disable SSL verification
 Set "SSL_VERIFY": false in config.json
