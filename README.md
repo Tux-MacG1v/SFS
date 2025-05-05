@@ -1,11 +1,14 @@
-# Secure File Storage (SFS) 🛡️
 
+# Secure File Storage (SFS) 🛡️
+```
 A secure file storage system with end-to-end encryption, automatic expiration, and secure file sharing capabilities.
+```
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VhNDM2eXp0YWZ0ZXVoZDFlenFpang1ZGFxcHhhbW43amRiaXVpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RHEqKwRZDwFKE/giphy.gif" alt="Secure Anonymous File Transfer" width="500"/>
   <p><i>Secure Anonymous File Transfer</i></p>
 </div>
 
+```markdown
 ## Features ✨
 
 - **AES-256 Encryption** 🔒  
