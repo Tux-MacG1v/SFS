@@ -149,6 +149,6 @@ Set "SSL_VERIFY": false in config.json
 MIT License - See [LICENSE](LICENSE) for details
 
 ---
-
 **Disclaimer**: This project is intended for educational purposes. Use at your own risk.
-``` 
+---
+
