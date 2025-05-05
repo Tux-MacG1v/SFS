@@ -6,7 +6,8 @@ A secure file storage system with end-to-end encryption, automatic expiration, a
 # Secure File Storage (SFS) 🛡️
 
 A secure file storage system with end-to-end encryption, automatic expiration, and secure file sharing capabilities.
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2VhNDM2eXp0YWZ0ZXVoZDFlenFpang1ZGFxcHhhbW43amRiaXVpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RHEqKwRZDwFKE/giphy.gif)
+![Secure Snonymous File Transfer](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDl0cHl1d3N5aGZndGd0cmQ5a2l0ZWp5YjZxN3BvZ2V4a3J0d3F3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj8IOgv4q/giphy.gif)
+
 
 ## Features ✨
 
